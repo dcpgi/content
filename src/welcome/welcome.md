@@ -5,11 +5,11 @@ But like if u think about like fr
 
 ## Link to the other books (guide/content) like this
 
-[guide index page](../guide/book/index.html)
+[guide index page](../../guide/book/index.html)
 
-[guide example page](../guide/book/example.html)
+[guide example page](../../guide/book/example.html)
 
-[content index page](../content/book/index.html)
+[content index page](../../content/book/index.html)
 
-[content example page](../content/book/example.html)
+[content example page](../../content/book/example.html)
 
