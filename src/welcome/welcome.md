@@ -3,5 +3,5 @@ But like if u think about like fr
 
 \\[ \prod_{ n=0 }^{ 69 } { \rm e }^{ \frac{ 2 \pi i }{ 69 } } = 1 \\]
 
-[../../guide/book/index.html](test)
+[test](/../guide/book/index.html)
 
